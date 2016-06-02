@@ -8,7 +8,7 @@ npm start
 open http://localhost:3000
 ```
 
-#More tutorial
+##More tutorial
 https://github.com/reactjs/redux/tree/master/examples
 
 
