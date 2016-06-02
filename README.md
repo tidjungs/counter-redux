@@ -1,4 +1,4 @@
-# Counter-redux
+# Counter-Redux
 example for learning how to use Redux
 
 ## Testing
